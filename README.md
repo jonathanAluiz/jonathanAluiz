@@ -8,11 +8,11 @@
 
 ### 🛠️ Stack
 
-🖥 Linux * Debian * CentOS * Manjaro
+🖥 Linux * Debian * Ubuntu * CentOS * Manjaro
 
 ### 📚 Studing
 
-📝 Docker * Kubernetes - Terraform * Ansible * GitHub Actions (CI/CD)
+📝 Docker * Kubernetes * Terraform * Ansible * GitHub Actions (CI/CD)
 
 <!--
 **jonathanAluiz/jonathanAluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
